@@ -8,6 +8,8 @@ Hub CMS is an actual CONTENT management system. Most CMSs are really web site ma
 
 Hub CMS strives to live up to the ideal of truly [adaptive content](http://karenmcgrane.com/2012/09/04/adapting-ourselves-to-adaptive-content-video-slides-and-transcript-oh-my/). You create/assemble the content in all its parts and pieces: text, images, audio, video, files, etc. That content is made available through an API, and it’s up to other software to do with that content as it sees fit: a website builder, an iPhone app, an Android app, a script, a program,  etc. It’s true separation of content from presentation.
 
+Hub is also an automated content distribution system.
+
 Content is not usually just a lone piece of text, or just one single image. It needs to be grouped together in relevent ways.
 
 Let's use a talk at [Laracon](http://laracon.eu/2013/) for an example. [Taylor Otwell](https://github.com/taylorotwell) gives a presentation. By the end, the following pieces of content, getting more elaborate as we go, could be available:
